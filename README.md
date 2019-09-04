@@ -1,29 +1,21 @@
-# calc
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Desktop Calculator in Vue.Js (Electron-Builder, Vue.Js)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
+[Electron Builder Vue-Cli](https://nklayman.github.io/vue-cli-plugin-electron-builder/guide/guide.html).
+## Run
+Clone the Repository
+`git clone https://github.com/MuhaddiMu/Vue-Desktop-Calculator.git`
+Run `npm install` inside Project folder
+### To start a development server:
+If you use [Yarn](https://yarnpkg.com/en/) (strongly recommended):
+`yarn electron:serve`
+or if you use NPM:
+`npm run electron:serve`
+### To build your app:
+With Yarn:
+`yarn electron:build`
+or with NPM:
+`npm run electron:build`
+To see more documentation [Visit Website](https://nklayman.github.io/vue-cli-plugin-electron-builder/guide/guide.html).
+---
+Ideas, PR, Suggestions highly appreciated! 
+[Muhaddis.Info](Http://Muhaddis.Info)
