@@ -10,6 +10,7 @@ Clone the Repository
 `git clone https://github.com/MuhaddiMu/Vue-Desktop-Calculator.git`
 
 Run `npm install` inside Project folder
+
 **To start a Development Server**
 
 If you use [Yarn](https://yarnpkg.com/en/) (strongly recommended):
