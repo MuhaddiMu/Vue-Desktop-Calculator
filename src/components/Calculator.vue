@@ -89,6 +89,9 @@ export default {
         this.Previous = null;
     },
    
+  },
+  created(){
+    
   }
 }
 </script>
@@ -96,7 +99,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .Calc {
-  width: 400px;
+  width: 300px;
   margin: 0px auto;
   font-size: 40px;
   display: grid;
@@ -121,7 +124,7 @@ export default {
 }
 
 .Btn:active{
-  font-size: 39px
+  font-size: 35px
 }
 
 .Operator {
